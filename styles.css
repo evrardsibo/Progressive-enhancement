@@ -96,6 +96,18 @@ th {
   color: white;
 }
 
+#gr{
+
+font-weight: bold;
+}
+
+#yes{
+  background-image: url(bien.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100px;
+}
+
 
 
 
