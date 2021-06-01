@@ -29,6 +29,7 @@ blockquote {
 
 
 }
+
  
  /*paragraphe*/
  p {
@@ -59,6 +60,16 @@ a:link {
 
    font-style: italic;
   }
+
+  .good{
+    color: green;
+    text-transform: capitalize;
+  }
+
+.bad {
+  color: red;
+  text-transform: capitalize;
+}
 
 
 
