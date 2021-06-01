@@ -103,10 +103,26 @@ font-weight: bold;
 
 #yes{
   background-image: url(bien.png);
+  padding-right: 20%;
   background-repeat: no-repeat;
-  background-position: center;
-  height: 100px;
+  background-position: 22%;
+  height: 50px;
 }
+#no{
+  background-image: url(mal.png);
+  padding-right: 20%;
+  background-repeat: no-repeat;
+  background-position: 22%;
+  height: 50px;
+}
+#cat{
+  background-image: url(chat.png);
+  padding-right: 20%;
+  background-repeat: no-repeat;
+  background-position: 22%;
+  height: 50px;
+}
+
 
 
 
