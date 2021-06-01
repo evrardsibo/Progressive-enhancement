@@ -134,6 +134,21 @@ font-weight: bold;
   margin-right:100px;
 }
 
+#not{
+  display: block;
+  color: black;
+  width: 300px;
+  border: solid 5px gray;
+  background-color: honeydew;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  
+
+  
+
+}
+
 
 
 
