@@ -1,0 +1,79 @@
+ /*body*/
+ body{
+    background-image: url("beach.jpg");
+    background-color: #FFF5EE;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: cover;
+    width: 90%;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    
+    
+
+}/*quotatios*/
+blockquote {
+    background-color:#C0C0C0 ;
+    font-size: 160%;
+    margin: 55px;
+    padding-left: 30px;
+    border-left: solid 3px ;
+
+
+}
+ 
+ /*paragraphe*/
+ p , q , blockquote {
+   color: blue;
+   font-family: serif;
+   font-size: 20px;
+   letter-spacing: 2px;
+   
+}
+/*link*/
+
+a:link {
+    color: rgb(38, 0, 255);
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    color: red;
+    cursor: pointer;
+  }
+  
+  /*quote*/
+  .quote {
+
+   font-style: italic;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
