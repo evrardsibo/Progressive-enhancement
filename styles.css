@@ -496,9 +496,15 @@ font-weight: bold;
   bottom: 0px;
   right: 0px;
   
+}
 
-  
-
+.fig{
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 1000px;
+  margin: auto;
 }
 
 
